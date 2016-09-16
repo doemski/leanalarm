@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TiltableRoundView">
+        <attr name="shadow" format="boolean" />
+        <attr name="tiltable" format="boolean"/>
+    </declare-styleable>
+</resources>
