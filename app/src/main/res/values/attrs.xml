@@ -3,5 +3,7 @@
     <declare-styleable name="TiltableRoundView">
         <attr name="shadow" format="boolean" />
         <attr name="tiltable" format="boolean"/>
+        <attr name="background_color" format="color"/>
+        <attr name="radius_fraction" format="float"/>
     </declare-styleable>
 </resources>

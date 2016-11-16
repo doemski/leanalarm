@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dominick Madden\Documents\GitHub\leanalarm\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Dominick Madden\Documents\GitHub\leanalarm\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_bf9754a28cfaa7f416c594551e1642dd115102a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dominick Madden\Documents\GitHub\leanalarm\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Dominick Madden\Documents\GitHub\leanalarm\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_bb24b5b3f5ad7ce8b38328f90e9524e6d7ccb568.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dominick Madden\Documents\GitHub\leanalarm\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Dominick Madden\Documents\GitHub\leanalarm\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_dfd6a35e53520d866eadf10387a65cdf78ba28d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dominick Madden\Documents\GitHub\leanalarm\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Dominick Madden\Documents\GitHub\leanalarm\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_2addbc8b85fbb678de644be63b2718e3d6228713.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dominick Madden\Documents\GitHub\leanalarm\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Dominick Madden\Documents\GitHub\leanalarm\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_dbc4227fcb0114c0320a056671033e81b373b7b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dominick Madden\Documents\GitHub\leanalarm\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Dominick Madden\Documents\GitHub\leanalarm\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5d40c2b96651f11d4c3e0530c53ee99030246a9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dominick Madden\Documents\GitHub\leanalarm\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Dominick Madden\Documents\GitHub\leanalarm\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_fcc83dc2059e891dd28d877ed42c8f245e3e910c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dominick Madden\Documents\GitHub\leanalarm\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Dominick Madden\Documents\GitHub\leanalarm\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e9199e1d0e76eac80ee591776b466b3d9696c981.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dominick Madden\Documents\GitHub\leanalarm\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Dominick Madden\Documents\GitHub\leanalarm\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_353d4fff8f14570919024e390433d10704dc500f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dominick Madden\Documents\GitHub\leanalarm\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Dominick Madden\Documents\GitHub\leanalarm\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_58e5a195875543acb8bef36f623475fee7c99390.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Dominick Madden\Documents\GitHub\leanalarm\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_10cd953c940accdea77ebb67004f63b8f836c70e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dominick Madden\Documents\GitHub\leanalarm\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Dominick Madden\Documents\GitHub\leanalarm\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_d81efe19a03c5fb10df59cdf0df119400f47db06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dominick Madden\Documents\GitHub\leanalarm\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Dominick Madden\Documents\GitHub\leanalarm\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_40c1268201a93db9e134b4ab10c5c7fd62790165.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dominick Madden\Documents\GitHub\leanalarm\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Dominick Madden\Documents\GitHub\leanalarm\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_7d7311181a1001973da160b9af20a370f6ddf8ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dominick Madden\Documents\GitHub\leanalarm\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Dominick Madden\Documents\GitHub\leanalarm\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_810a3743cb484a11997d1905e5546309fb589b53.jar" />
+    </item>
+
+</items>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:round="http://schemas.android.com/apk/res-auto"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tiltround="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
@@ -11,12 +11,88 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:background="@color/colorBackground"
     tools:context="com.doemski.leanalarm.MainActivity"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:layout_centerHorizontal="true"
+    android:layout_centerVertical="true">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Monday"
+        android:id="@+id/alarm_name_textview"
+        android:textSize="60sp"
+        android:textColor="@color/colorText"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"/>
+
     <com.doemski.leanalarm.TiltableRoundView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            round:tiltable="true"
-            round:shadow="true"/>
-</LinearLayout>
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:elevation="8dp"
+        android:layout_centerInParent="true"
+        android:id="@+id/minutes_view"
+        tiltround:tiltable="false"
+        tiltround:shadow="true"
+        tiltround:background_color="@color/colorPrimary">
+    </com.doemski.leanalarm.TiltableRoundView>
+
+    <com.doemski.leanalarm.TiltableRoundView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        tiltround:tiltable="true"
+        tiltround:shadow="true"
+        tiltround:background_color="@color/colorPrimaryDark"
+        tiltround:radius_fraction=".6"
+        android:layout_centerInParent="true"
+        android:id="@+id/hours_view"
+        android:elevation="16dp">
+    </com.doemski.leanalarm.TiltableRoundView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="9"
+        android:textSize="40sp"
+        android:elevation="16dp"
+        android:id="@+id/nine"
+        android:layout_alignParentLeft="true"
+        android:textColor="@color/colorText"
+        android:background="@color/colorAccent"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="3"
+        android:textSize="40sp"
+        android:elevation="16dp"
+        android:id="@+id/three"
+        android:layout_alignParentRight="true"
+        android:textColor="@color/colorText"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="6"
+        android:textSize="40sp"
+        android:elevation="16dp"
+        android:id="@+id/six"
+        android:layout_alignParentBottom="true"
+        android:textColor="@color/colorText"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="12"
+        android:textSize="40sp"
+        android:elevation="16dp"
+        android:id="@+id/twelve"
+        android:layout_alignParentTop="true"
+        android:textColor="@color/colorText"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="13:37"
+        android:id="@+id/time_textview"
+        android:textSize="60sp"
+        android:textColor="@color/colorText"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"/>
+
+</RelativeLayout>
 
 
